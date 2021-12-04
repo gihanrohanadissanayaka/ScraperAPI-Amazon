@@ -3,14 +3,12 @@
 Here we connect react client side product searching application with API service host from heroku.Express(Node.js) based API part build to fetch data from AMAZON products in realtime.
 
 **Functional Features**
-* Create account ( google sign in, sign up )
-* Add memory
-* Update, delete memory
-* search memory ( search query, tag search )
-* show relevent post
-* pagination
+*search product by query
+*serch product by AMAZON id
+*reviews
+*offers
 
-Browse project - https://travelguide-muradevelopments.netlify.app
+Browse project - scraper-api-muradevelopers.netlify.app/
 ![banner](https://i.im.ge/2021/08/08/07iZy.png)
 
 _Mobile View_
